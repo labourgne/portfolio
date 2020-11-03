@@ -63,7 +63,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Assistant Engineer (internship)"
   company = "SII"
-  company_url = "https://www.sii-group.com/"
+  company_url = "https://sii-group.com/"
   location = "Toulouse"
   date_start = "2016-06-01"
   date_end = "2016-07-01"
