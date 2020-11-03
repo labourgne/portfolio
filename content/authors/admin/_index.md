@@ -50,12 +50,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/labourgne
-- icon: cv
-  icon_pack: ai
-  link: media/cv.pdf
 - icon: kaggle
   icon_pack: fab
   link: https://www.kaggle.com/bourgnounesque/
+- icon: cv
+  icon_pack: ai
+  link: media/cv.pdf
+
   
 #- icon: google-scholar
 #  icon_pack: ai
