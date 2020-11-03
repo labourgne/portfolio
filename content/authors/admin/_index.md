@@ -53,6 +53,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: media/cv.pdf
+- icon: kaggle
+  icon_pack: fab
+  link: https://www.kaggle.com/bourgnounesque/
   
 #- icon: google-scholar
 #  icon_pack: ai
