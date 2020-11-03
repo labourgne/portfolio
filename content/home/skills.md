@@ -25,12 +25,18 @@ subtitle = ""
   icon_pack = "custom"
   name = "Artificial Intelligence"
   description = "Machine Learning & Deep Learning"
+  
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Tools"
+  description = "Jupyter, Colab, PyCharm, GitHub"
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "SQL"
-  description = ""
+  name = "Database"
+  description = "SQL, MySQL"
 
 # Uncomment to use emoji icons.
 # [[feature]]
