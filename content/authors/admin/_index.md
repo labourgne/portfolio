@@ -18,7 +18,7 @@ role: Data Scientist
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Open to work as a Data Scentist
+#bio: 
 
 interests:
 - Data Science
