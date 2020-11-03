@@ -60,7 +60,7 @@ social:
   link: static/files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "pranaymns@gmail.com"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
