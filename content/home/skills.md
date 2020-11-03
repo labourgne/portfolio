@@ -18,13 +18,13 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = ""
+  description = "Pandas, NumPy, Matplotlib, etc."
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
+  name = "Artificial Intelligence"
+  description = "Machine Learning & Deep Learning"  
 
 
 # Uncomment to use emoji icons.
