@@ -26,6 +26,11 @@ subtitle = ""
   name = "Artificial Intelligence"
   description = "Machine Learning & Deep Learning"
 
+[[feature]]
+  icon = "database"
+  icon_pack = "fab"
+  name = "SQL"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
