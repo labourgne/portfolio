@@ -25,18 +25,18 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   You can begin a multiline `description` using YAML's `|-`.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/DNQ8P9H7BACZ
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
+  date_start: "2018-09-01"
+  description: "Specialization with 5 courses: |- test |- toto"
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: "Applied Data Science with Python"
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  description: "Formulated informed blockchain models, hypotheses, and use cases".
   organization: edX
   organization_url: https://www.edx.org
   title: Blockchain Fundamentals
