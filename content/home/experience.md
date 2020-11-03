@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   My internship in the Airbus "Test" department was divided into two missions:
   
-  Data Science: Detection of anomalies in flight test data to diffentiate OK and KO sensors
+  Data Science for detection of anomalies in flight test data to diffentiate OK and KO sensors:
   - Data collection
   - Exploratory Data Analysis (EDA)
   - Data cleaning
@@ -63,11 +63,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Mechanical Engineer (internship)"
-  company = "Altran"
-  company_url = "https://www.altran.com/"
-  location = "Blagnac"
-  date_start = "2019-02-01"
-  date_end = "2019-08-01"
+  company = "SII"
+  company_url = "https://www.sii-group.com/"
+  location = "Toulouse"
+  date_start = "2016-02-01"
+  date_end = "2016-08-01"
   description = """
   I joined the Altran Sud-Ouest "System Installation" department to optimize A350 part.
   - Finding appropriate part according to its characteristics (weight, cost, size, number of parts)
