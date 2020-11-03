@@ -21,8 +21,8 @@ subtitle = ""
   description = "Pandas, NumPy, Matplotlib, etc."
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
+  icon = "AI"
+  icon_pack = "custom"
   name = "Artificial Intelligence"
   description = "Machine Learning & Deep Learning"  
 
