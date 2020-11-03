@@ -25,12 +25,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   description = ""  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = ""
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -44,7 +39,7 @@ subtitle = ""
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 
 [[feature]]
-  icon = "project_management"
+  icon = "proj"
   icon_pack = "custom"
   name = "Project Management"
   description = ""
