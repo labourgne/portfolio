@@ -52,7 +52,7 @@ social:
   link: https://github.com/labourgne
 - icon: cv
   icon_pack: ai
-  link: media/cv.pdf
+  link: "media/cv.pdf"
   
 #- icon: google-scholar
 #  icon_pack: ai
