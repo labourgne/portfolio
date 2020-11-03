@@ -13,12 +13,12 @@ superuser: true
 role: Data Scientist
 
 # Organizations/Affiliations
-organizations:
-- name:  
-  url: ""
+#organizations:
+#- name: 
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Open to work as a Data Scentist
+#bio: Open to work as a Data Scentist
 
 interests:
 - Data Science
@@ -64,9 +64,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 
