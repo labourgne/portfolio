@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = "2020-09-01"
   description = """
-  My internship in the Airbus "Test" department was divided into two missions:
+  Two missions in the Airbus "Test" department:
   
   Data Science for detection of anomalies in flight test data to diffentiate OK and KO sensors:
   - Data collection
@@ -37,7 +37,6 @@ date_format = "Jan 2006"
   
   
   Configuration Management Improvement:
-  
   - Identification of item linked to Configuration Management for Lab Test (process)
   - Understanding of the AS-IS situation and associated difficulties in the Lab Test Centre
   - Identification of current needs and requirements of Configuration Management for Lab Tests
@@ -52,30 +51,25 @@ date_format = "Jan 2006"
   date_start = "2019-02-01"
   date_end = "2019-08-01"
   description = """
-  I joined the Altran Sud-Ouest "System Installation" department to optimize A350 part.
-  - Finding appropriate part according to its characteristics (weight, cost, size, number of parts)
+  Optimisation of A350 part in "System Installation" department:
+  - Selecting appropriate part to opimise according to its characteristics (weight, cost, size, number of parts)
   - Structural and material modifications to reduce weight and cost (HyperMesh)
   - Sizing of new structure (Nastran)
   - Automation tool creation for the extraction of calculation results (VBA)
   
-  Result: 50% weight reduction and 15% cost reduction of a part
+  Result: 50% weight reduction and 15% cost reduction for a part
   """
 
 [[experience]]
-  title = "Mechanical Engineer (internship)"
+  title = "Assistant Engineer (internship)"
   company = "SII"
   company_url = "https://www.sii-group.com/"
   location = "Toulouse"
-  date_start = "2016-02-01"
-  date_end = "2016-08-01"
+  date_start = "2016-06-01"
+  date_end = "2016-07-01"
   description = """
-  I joined the Altran Sud-Ouest "System Installation" department to optimize A350 part.
-  - Finding appropriate part according to its characteristics (weight, cost, size, number of parts)
-  - Structural and material modifications to reduce weight and cost (HyperMesh)
-  - Sizing of new structure (Nastran)
-  - Automation tool creation for the extraction of calculation results (VBA)
-  
-  Result: 50% weight reduction and 15% cost reduction of a part
+  Integration of "Analysis Incident" department which analyses flight recorders when an incident occurs:
+  - Creation of templates to display flight data according to incidents
   """
 
 +++
