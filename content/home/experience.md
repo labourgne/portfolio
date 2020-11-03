@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = "2020-09-01"
   description = """
-  Two missions in the Airbus "Test" department:
+  Two missions in the "Test" department:
   
   Data Science for detection of anomalies in flight test data to diffentiate OK and KO sensors:
   - Data collection
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   date_start = "2019-02-01"
   date_end = "2019-08-01"
   description = """
-  Optimisation of A350 part in "System Installation" department:
+  Optimisation of A350 part in the "System Installation" department:
   - Selecting appropriate part to opimise according to its characteristics (weight, cost, size, number of parts)
   - Structural and material modifications to reduce weight and cost (HyperMesh)
   - Sizing of new structure (Nastran)
@@ -68,7 +68,7 @@ date_format = "Jan 2006"
   date_start = "2016-06-01"
   date_end = "2016-07-01"
   description = """
-  Integration of "Analysis Incident" department which analyses flight recorders when an incident occurs:
+  Integration of the "Analysis Incident" department which analyses flight recorders when an incident occurs:
   - Creation of templates to display flight data according to incidents
   """
 
