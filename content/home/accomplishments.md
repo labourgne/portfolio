@@ -22,13 +22,19 @@ date_format = "Jan 2006"
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Applied Data Science with Python"
-  url = ""
+  url = "https://www.coursera.org/specializations/data-science-python"
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/DNQ8P9H7BACZ"
   date_start = "2020-09-01"
   date_end = ""
-  description = """Specialization in 5 courses:
-                   test
-                   toto"""
+  description = """
+  Specialization including 5 courses:
+  
+  - Introduction to Data Science
+  - Applied Plotting, Charting & Data Representation
+  - Applied Machine Learning
+  - Applied Text Mining
+  - Applied Social Network Analysis in Python
+  """
 
 [[item]]
   organization = "edX"
