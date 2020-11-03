@@ -24,7 +24,9 @@ subtitle = ""
   icon = "AI"
   icon_pack = "custom"
   name = "Artificial Intelligence"
-  description = "Machine Learning & Deep Learning"  
+  description = "Machine Learning & Deep Learning 
+  
+  (Sklearn, TensorFlow)"  
 
 
 # Uncomment to use emoji icons.
