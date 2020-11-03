@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/DNQ8P9H7BACZ"
   date_start = "2020-09-01"
   date_end = ""
-  description = "Specialization in 5 courses:"
+  description = "Specialization in 5 courses: |- test |- toto"
 
 [[item]]
   organization = "edX"
