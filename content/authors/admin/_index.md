@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Leo Bourgnounesque
+name: Léo Bourgnounesque
 
 # Username (this should match the folder name)
 authors:
@@ -18,26 +18,23 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Deep learning, Machine Learning for Industry 4.0.
+bio: Open to work as a Data Scentist
 
 interests:
-- Deep Learning
-- Machine learning
 - Data Science
-- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Sports
 
 
 education:
   courses:
-  - course: M.Sc. in Systems Engineering and Engineering Management
-    institution: Fachhochschule Südwestfalen
-    #year: 2020
-  - course: B.Tech in Electrical and Electronics Engineering
-    institution: Jawaharlal Nehru Technological University
-    #year: 2017
-  - course: Machine Learning Engineer Nanodegree
-    institution: Udacity
-    #year: 2017
+  - course: Advanced Master in Aerospace Project Management
+    institution: ISAE-Supaero
+    year: 2020
+  - course: Generalist Engineer
+    institution: ICAM
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,19 +43,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:pranaymns@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:leo.bourgnounesque@hotmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/pranaymodukuru/
+  link: https://www.linkedin.com/in/léo-bourgnounesque-a70685172
 - icon: github
   icon_pack: fab
-  link: https://github.com/pranaymodukuru
-- icon: medium
-  icon_pack: fab
-  link: https://medium.com/@pranaymns
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/pranaymns
+  link: https://github.com/labourgne
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
