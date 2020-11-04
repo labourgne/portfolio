@@ -22,8 +22,8 @@ role: Data Scientist Junior
 
 interests:
 - Data Science
-- Machine Learning
-- Deep Learning
+- Artificial Intelligence
+- Music
 - Sports
 
 
@@ -75,9 +75,8 @@ email: "leo.bourgnounesque@hotmail.com"
 #- Visitors
 ---
 
+Holder of a Generalist Engineering Degree from the Institut Catholique d'Arts et Métiers (ICAM), I continued my studies by integrating the Advanced Master "Aerospace Project Management" at ISAE-SUPAERO in Toulouse. 
 
-Titulaire d'un diplôme d'ingénieur généraliste de l'Institut Catholique d'Arts et Métiers (ICAM), j’ai poursuivi mes études en intégrant le mastère spécialisé "Aerospace Project Management" au sein de l’ISAE-SUPAERO à Toulouse. 
+In addition, I took online courses (MOOC) with the University of Michigan and DeepLearning.AI to specialise in Data Science (Data Processing, Data Visualization, Machine Learning, Text Mining, Deep Learning) and the use of Python.
 
-En complément, j’ai suivi des formations en ligne (MOOC) avec l’Université de Michigan et DeepLearning.AI afin de me spécialiser dans la Data Science (Data Processing, Data Visualization, Machine Learning, Text Mining, Deep Learning) et dans l’utilisation de Python.
-
-Je recherche un poste en tant que Data Scientist. Disponible et très motivé, je suis prêt à relever de nouveaux défis.
+I am looking for a position as Data Scientist. Available and highly motivated, I am ready to take up new challenges.
