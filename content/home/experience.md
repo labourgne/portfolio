@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   Stack: Python, Pandas, NumPy, Matplotlib + Seaborn, Sklearn (Pipelines, StandardScaler, PCA, K-Mean), Jupyter
   
   
-  Configuration Management for Laboratory Tests Improvement:
+  Configuration Management (CM) for Laboratory Tests Improvement:
   - Identification of item linked to CM for Lab Test (process)
   - Understanding of the AS-IS situation and associated difficulties in the Lab Test Centre
   - Identification of current needs and requirements of CM for Lab Tests
