@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist
+role: Data Scientist Junior
 
 # Organizations/Affiliations
 #organizations:
