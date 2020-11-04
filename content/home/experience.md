@@ -25,9 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = "2020-09-01"
   description = """
-  Two missions in the "Test" department:
-  
-  Data Science for detection of anomalies in flight test data to diffentiate OK and KO sensors:
+  Data Science in the "Test" department for anomaly detection in flight test data to diffentiate OK and KO sensors:
   - Data collection
   - Exploratory Data Analysis (EDA)
   - Data cleaning
@@ -36,10 +34,10 @@ date_format = "Jan 2006"
   Stack: Python, Pandas, NumPy, Matplotlib + Seaborn, Sklearn (Pipelines, StandardScaler, PCA, K-Mean), Jupyter
   
   
-  Configuration Management Improvement:
-  - Identification of item linked to Configuration Management for Lab Test (process)
+  Configuration Management for Laboratory Tests Improvement:
+  - Identification of item linked to CM for Lab Test (process)
   - Understanding of the AS-IS situation and associated difficulties in the Lab Test Centre
-  - Identification of current needs and requirements of Configuration Management for Lab Tests
+  - Identification of current needs and requirements of CM for Lab Tests
   - Proposition of a mock-up for Test benches configuration tool
   """
 
@@ -57,7 +55,7 @@ date_format = "Jan 2006"
   - Sizing of new structure (Nastran)
   - Automation tool creation for the extraction of calculation results (VBA)
   
-  Result: 50% weight reduction and 15% cost reduction for a part
+  Result: 50% weight and 15% cost reduction for a part
   """
 
 [[experience]]
