@@ -76,6 +76,8 @@ email: "leo.bourgnounesque@hotmail.com"
 ---
 
 
-Titulaire d'un diplôme d'ingénieur général de l'Institut Catholique d'Arts et Métiers (ICAM), j’ai poursuivi mes études en intégrant le mastère spécialisé "Aerospace Project Management" au sein de l’ISAE-SUPAERO à Toulouse. 
+Titulaire d'un diplôme d'ingénieur généraliste de l'Institut Catholique d'Arts et Métiers (ICAM), j’ai poursuivi mes études en intégrant le mastère spécialisé "Aerospace Project Management" au sein de l’ISAE-SUPAERO à Toulouse. 
 
 Au cours de cette dernière année, j’ai aussi suivi des formations en ligne (MOOC) avec l’Université de Michigan et DeepLearning.AI afin de me spécialiser dans la Data Science (Data Processing, Data Visualization, Machine Learning, Text Mining, Deep Learning) et dans l’utilisation de Python.
+
+Disponible et très motivé, je suis prêt à relever de nouveaux défis. C'est pourquoi je recherche un poste en tant que Data Scientist.
