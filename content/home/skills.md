@@ -53,6 +53,12 @@ subtitle = ""
   icon = "proj"
   icon_pack = "custom"
   name = "Project Management"
-  description = ""
+  description = "Agile Method"
+  
+[[feature]]
+  icon = "user-tie"
+  icon_pack = "fas"
+  name = "Personality"
+  description = "Adaptability, Autonomy, Proactivity, Taste for new challenges..."
 
 +++
