@@ -79,4 +79,4 @@ Holder of a Generalist Engineering Degree from the Institut Catholique d'Arts et
 
 In addition, I took online courses (MOOC) with the University of Michigan and DeepLearning.AI to specialise in Data Science (Data Processing, Data Visualization, Machine Learning, Text Mining, Deep Learning) and the use of Python.
 
-I am looking for a position as Data Scientist. Available and highly motivated, I am ready to take up new challenges.
+I am looking for a job as Data Scientist. Available and highly motivated, I am ready to take up new challenges.
