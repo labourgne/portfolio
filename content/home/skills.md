@@ -59,6 +59,6 @@ subtitle = ""
   icon = "user-tie"
   icon_pack = "fas"
   name = "Personality"
-  description = "Adaptability, Autonomy, Proactivity, Taste for new challenges..."
+  description = "Adaptability, Autonomy, Proactivity, Teamwork, Taste for new challenges..."
 
 +++
