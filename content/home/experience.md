@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = "2020-09-01"
   description = """
-  Data Science in the "Test" department for anomaly detection in flight test data to diffentiate OK and KO sensors:
+  Data Science in the "Test" department for anomaly detection in flight test data to differentiate OK and KO sensors:
   - Data collection
   - Exploratory Data Analysis (EDA)
   - Data cleaning
