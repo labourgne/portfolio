@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   date_end = "2019-08-01"
   description = """
   Optimisation of A350 part in the "System Installation" department:
-  - Selecting appropriate part to opimise according to its characteristics (weight, cost, size, number of parts)
+  - Selecting appropriate part to optimise according to its characteristics (weight, cost, size, number of parts)
   - Structural and material modifications to reduce weight and cost (HyperMesh)
   - Sizing of new structure (Nastran)
   - Automation tool creation for the extraction of calculation results (VBA)
