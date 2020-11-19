@@ -18,7 +18,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Pandas, NumPy, Matplotlib, Sklearn, TensorFlow, Keras"
+  description = "Pandas, NumPy, Matplotlib, Sklearn, TensorFlow, Keras, Flask"
   
 [[feature]]
   icon = "AI"
