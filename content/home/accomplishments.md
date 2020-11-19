@@ -27,13 +27,13 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = ""
   description = """
-  Specialization including 5 courses:
+  Specialization in 5 courses:
   
   - Introduction to Data Science
   - Applied Plotting, Charting & Data Representation
   - Applied Machine Learning
   - Applied Text Mining
-  - Applied Social Network Analysis in Python
+  - Applied Social Network Analysis
   """
 
 [[item]]
