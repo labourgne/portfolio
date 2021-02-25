@@ -56,4 +56,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Django Specialization"
+  url = "https://www.coursera.org/specializations/django"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/FLLSDZCX6KX6"
+  date_start = "2021-02-01"
+  date_end = ""
+  description = ""
+
 +++
