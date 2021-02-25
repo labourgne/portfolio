@@ -62,8 +62,16 @@ date_format = "Jan 2006"
   title = "Django Specialization"
   url = "https://www.coursera.org/specializations/django"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/FLLSDZCX6KX6"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/FLLSDZCX6KX6"
   date_start = "2021-02-01"
   date_end = ""
-  description = ""
+  description = """
+  Specialization in 4 courses:
+  
+  - Web Application Technologies and Django
+  - Building Web Applications in Django
+  - Django Features and Libraries
+  - Using JavaScript, JQuery, and JSON in Django
+  """
 
 +++
